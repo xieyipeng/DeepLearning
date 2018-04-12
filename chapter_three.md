@@ -66,6 +66,26 @@
 
 ![](https://s1.ax2x.com/2018/04/09/IAHaR.png)
 
+![](https://s1.ax2x.com/2018/04/12/Np26u.jpg)
+
+> 更一般的情况，试图学得：
+
+![](https://s1.ax2x.com/2018/04/12/NpoRq.png)
+
+> 类似的有：
+
+![](https://s1.ax2x.com/2018/04/12/Npw0e.png)
+
+> 其中：
+
+![](https://s1.ax2x.com/2018/04/12/Ns3ad.png)
+
+![](https://s1.ax2x.com/2018/04/12/Ns5SR.png)
+
+![](https://s1.ax2x.com/2018/04/12/NsYQB.png)
+
+4. **线性代数基础**
+
 > 
 
 
