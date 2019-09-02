@@ -1,0 +1,162 @@
+[
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '34.52',
+    'monitor_id': 139,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.879999',
+    'monitor_time': '2019/08/30 17:47:56'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '34.52',
+    'monitor_id': 138,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:53'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '34.52',
+    'monitor_id': 137,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:49'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '33.91',
+    'monitor_id': 136,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:46'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '33.91',
+    'monitor_id': 135,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:43'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '34.52',
+    'monitor_id': 134,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:40'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '33.91',
+    'monitor_id': 133,
+    'monitor_sensor_id': 'A6625305004B1200',
+    'monitor_temperature': '29.92',
+    'monitor_time': '2019/08/30 17:47:38'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 132,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.200001',
+    'monitor_time': '2019/08/28 15:48:34'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 131,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.280001',
+    'monitor_time': '2019/08/28 15:48:32'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 130,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.280001',
+    'monitor_time': '2019/08/28 15:48:31'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 129,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.280001',
+    'monitor_time': '2019/08/28 15:48:30'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 128,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.280001',
+    'monitor_time': '2019/08/28 15:48:29'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 127,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.32',
+    'monitor_time': '2019/08/28 15:48:28'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 126,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.32',
+    'monitor_time': '2019/08/28 15:48:27'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 125,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.32',
+    'monitor_time': '2019/08/28 15:48:26'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 124,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.32',
+    'monitor_time': '2019/08/28 15:48:24'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 123,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.4',
+    'monitor_time': '2019/08/28 15:48:23'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 122,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.4',
+    'monitor_time': '2019/08/28 15:48:22'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 121,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.4',
+    'monitor_time': '2019/08/28 15:48:21'
+  },
+  {
+    'monitor_StrawberryFram_id': 1,
+    'monitor_humidity': '27.76',
+    'monitor_id': 120,
+    'monitor_sensor_id': '13635305004B1200',
+    'monitor_temperature': '31.4',
+    'monitor_time': '2019/08/28 15:48:20'
+  }
+]
