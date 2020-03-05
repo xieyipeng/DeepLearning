@@ -8,7 +8,7 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 
 # 调用pandas工具包的read_csv函数/模块，传入训练文件地址参数，获得返回的数据并存放至de_train
-df_train = pd.read_csv(r'F:\MachineLearning\pythonMachineLearningAndTrain\src\breast-cancer-train.csv')
+df_train = pd.read_csv(r'E:\MachineLearning\pythonMachineLearningAndTrain\src\breast-cancer-train.csv')
 df_test = pd.read_csv(r'F:\MachineLearning\pythonMachineLearningAndTrain\src\breast-cancer-ssm.csv')
 
 # 选取‘Clump Thickness’和‘Cell Size’作为特征，构建测试集中的正负分类样本
