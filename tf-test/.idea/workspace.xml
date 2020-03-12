@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e2fd2e-052a-43d4-8ec9-94472691db86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../py_ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../py_ML/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../version-info" beforeDir="false" afterPath="$PROJECT_DIR$/../version-info" afterDir="false" />
-    </list>
+    <list default="true" id="85e2fd2e-052a-43d4-8ec9-94472691db86" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583895727792</updated>
       <workItem from="1583895731982" duration="732000" />
+      <workItem from="1583898047714" duration="2000" />
     </task>
     <servers />
   </component>
