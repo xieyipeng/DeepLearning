@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a58048f-6063-4263-841b-fbfbde4c384a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/03_news_code 21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/04_iris_code25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/05_titanic_code29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p57/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/06_multiple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/05_titanic_code29.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/05_titanic_code29.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p38" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -61,29 +59,7 @@
       <recent name="$PROJECT_DIR$/chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_titanic_code29">
-    <configuration name="01_tumor_drawing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_ML" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter2/01_tumor_drawing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.06_multiple">
     <configuration name="02_handwriting_code17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,13 +148,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="06_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter2/06_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06_multiple" />
         <item itemvalue="Python.05_titanic_code29" />
         <item itemvalue="Python.04_iris_code25" />
         <item itemvalue="Python.03_news_code 21" />
         <item itemvalue="Python.02_handwriting_code17" />
-        <item itemvalue="Python.01_tumor_drawing" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +198,11 @@
       <workItem from="1583917009482" duration="3568000" />
       <workItem from="1583975667191" duration="10205000" />
       <workItem from="1584063971580" duration="7781000" />
+      <workItem from="1584151562079" duration="521000" />
+      <workItem from="1584152106603" duration="196000" />
+      <workItem from="1584152312968" duration="375000" />
+      <workItem from="1584152698065" duration="15000" />
+      <workItem from="1584152722584" duration="3394000" />
     </task>
     <servers />
   </component>
@@ -211,37 +214,50 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="680" y="357" width="606" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583983032090" />
-    <state width="1874" height="412" key="GridCell.Tab.0.bottom" timestamp="1584083987039">
+    <state x="701" y="401" width="518" height="257" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584152710850">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1584083987039" />
+    <state x="701" y="401" width="518" height="257" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1584152710850" />
+    <state x="704" y="273" width="501" height="513" key="FileChooserDialogImpl" timestamp="1584154281307">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="704" y="273" width="501" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1584154281307" />
+    <state width="1874" height="412" key="GridCell.Tab.0.bottom" timestamp="1584156459161">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="412" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459161" />
     <state width="1807" height="273" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778459" />
-    <state width="1874" height="412" key="GridCell.Tab.0.center" timestamp="1584083987038">
+    <state width="1874" height="412" key="GridCell.Tab.0.center" timestamp="1584156459159">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1584083987038" />
+    <state width="1874" height="412" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459159" />
     <state width="1807" height="273" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778458" />
-    <state width="1874" height="412" key="GridCell.Tab.0.left" timestamp="1584083987037">
+    <state width="1874" height="412" key="GridCell.Tab.0.left" timestamp="1584156459158">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1584083987037" />
+    <state width="1874" height="412" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459158" />
     <state width="1807" height="273" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778458" />
-    <state width="1874" height="412" key="GridCell.Tab.0.right" timestamp="1584083987039">
+    <state width="1874" height="412" key="GridCell.Tab.0.right" timestamp="1584156459160">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584083987039" />
+    <state width="1874" height="412" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459160" />
     <state width="1807" height="273" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778459" />
-    <state x="657" y="227" key="SettingsEditor" timestamp="1584078818080">
+    <state x="826" y="122" key="SettingsEditor" timestamp="1584156347922">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="657" y="227" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1584078818080" />
+    <state x="826" y="122" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1584156347922" />
     <state x="455" y="157" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583982734392" />
+    <state x="368" y="53" width="1365" height="813" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584154386322">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="368" y="53" width="1365" height="813" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1584154386322" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_ML$03_news_code_21.coverage" NAME="03_news_code 21 Coverage Results" MODIFIED="1584079199119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/py_ML$02_handwriting_code17.coverage" NAME="02_handwriting_code17 Coverage Results" MODIFIED="1584065488711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/py_ML$code12.coverage" NAME="code12 Coverage Results" MODIFIED="1583983548264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/py_ML$drawing.coverage" NAME="01_tumor_drawing Coverage Results" MODIFIED="1583999308837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/py_ML$06_multiple.coverage" NAME="06_multiple Coverage Results" MODIFIED="1584156251195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/py_ML$04_iris_code25.coverage" NAME="04_iris_code25 Coverage Results" MODIFIED="1584081982356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/py_ML$05_titanic_code29.coverage" NAME="05_titanic_code29 Coverage Results" MODIFIED="1584083218690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/py_ML$code13.coverage" NAME="code13 Coverage Results" MODIFIED="1583982635727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />

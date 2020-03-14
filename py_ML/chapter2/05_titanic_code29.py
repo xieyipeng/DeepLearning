@@ -40,9 +40,9 @@ dtc = DecisionTreeClassifier()
 dtc.fit(X_train, y_train)
 y_predict = dtc.predict(X_test)
 
-
 # TODO: ode31
 # 性能评测
 from sklearn.metrics import classification_report
-print(dtc.score(X_test,y_test))
-print(classification_report(y_predict,y_test,target_names=['died','survived']))
+
+print(dtc.score(X_test, y_test))
+print(classification_report(y_predict, y_test, target_names=['died', 'survived']))
