@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a58048f-6063-4263-841b-fbfbde4c384a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/06_multiple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/05_titanic_code29.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/05_titanic_code29.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p38" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -202,7 +200,8 @@
       <workItem from="1584152106603" duration="196000" />
       <workItem from="1584152312968" duration="375000" />
       <workItem from="1584152698065" duration="15000" />
-      <workItem from="1584152722584" duration="3394000" />
+      <workItem from="1584152722584" duration="3638000" />
+      <workItem from="1584239743398" duration="842000" />
     </task>
     <servers />
   </component>
@@ -218,34 +217,38 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="701" y="401" width="518" height="257" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1584152710850" />
-    <state x="704" y="273" width="501" height="513" key="FileChooserDialogImpl" timestamp="1584154281307">
+    <state x="500" y="68" width="909" height="924" key="CommitChangelistDialog2" timestamp="1584240662673">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="704" y="273" width="501" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1584154281307" />
-    <state width="1874" height="412" key="GridCell.Tab.0.bottom" timestamp="1584156459161">
+    <state x="500" y="68" width="909" height="924" key="CommitChangelistDialog2/0.27.1920.1008@0.27.1920.1008" timestamp="1584240662673" />
+    <state x="99" y="242" width="501" height="513" key="FileChooserDialogImpl" timestamp="1584240101717">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459161" />
+    <state x="99" y="242" width="501" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1584240101717" />
+    <state width="1874" height="412" key="GridCell.Tab.0.bottom" timestamp="1584156592619">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state width="1874" height="412" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1584156592619" />
     <state width="1807" height="273" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778459" />
-    <state width="1874" height="412" key="GridCell.Tab.0.center" timestamp="1584156459159">
+    <state width="1874" height="412" key="GridCell.Tab.0.center" timestamp="1584156592619">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459159" />
+    <state width="1874" height="412" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1584156592619" />
     <state width="1807" height="273" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778458" />
-    <state width="1874" height="412" key="GridCell.Tab.0.left" timestamp="1584156459158">
+    <state width="1874" height="412" key="GridCell.Tab.0.left" timestamp="1584156592619">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459158" />
+    <state width="1874" height="412" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1584156592619" />
     <state width="1807" height="273" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778458" />
-    <state width="1874" height="412" key="GridCell.Tab.0.right" timestamp="1584156459160">
+    <state width="1874" height="412" key="GridCell.Tab.0.right" timestamp="1584156592619">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="412" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584156459160" />
+    <state width="1874" height="412" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584156592619" />
     <state width="1807" height="273" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778459" />
-    <state x="826" y="122" key="SettingsEditor" timestamp="1584156347922">
+    <state x="854" y="91" key="SettingsEditor" timestamp="1584240185597">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="826" y="122" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1584156347922" />
+    <state x="854" y="91" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1584240185597" />
     <state x="455" y="157" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583982734392" />
     <state x="368" y="53" width="1365" height="813" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584154386322">
       <screen x="0" y="27" width="1920" height="1008" />
