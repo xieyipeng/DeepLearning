@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a58048f-6063-4263-841b-fbfbde4c384a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="1906aee7-7133-4bef-9559-958a10f5d6d2" />
   <component name="ProjectId" id="1YwIhJn1snqbXIDIajKKO0pMcGv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -202,6 +204,7 @@
       <workItem from="1584152698065" duration="15000" />
       <workItem from="1584152722584" duration="3638000" />
       <workItem from="1584239743398" duration="1315000" />
+      <workItem from="1584352211040" duration="834000" />
     </task>
     <task id="LOCAL-00001" summary="test pycharm git">
       <created>1584240714239</created>
