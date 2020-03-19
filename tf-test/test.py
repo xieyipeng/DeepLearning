@@ -9,10 +9,10 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 import tensorflow as tf
 
-a = tf.constant([1.0, 2.0, 3.0], shape=[3], name='a')
-b = tf.constant([1.0, 2.0, 3.0], shape=[3], name='b')
-c = a + b
-
-sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
-
-print(sess.run(c))
+w = tf.Variable(0, dtype=tf.float32)
+cost = tf.add(tf.add(w ** 2, tf.multiply(-10., w)), 25)
+train = tf.train.GradientDescentOptimizer(0.01).minimize(cost)
+init = tf.compat.v1.global_variables_initializer()
+session = tf.compat.v1.Session()
+session.run(init)
+print(session.run(w))
