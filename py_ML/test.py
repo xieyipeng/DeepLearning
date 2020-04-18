@@ -4,10 +4,16 @@
 @Modify Time      @Author
  ---------        -------
  2020/3/10       xieyipeng
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 
+ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple
 """
 
-import sklearn
+import math
+import numpy as np
+import h5py
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
 
-a = sklearn.linear_model.LogisticRegressionCV()
-a.fit()
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+
+# import tensorflow as tf

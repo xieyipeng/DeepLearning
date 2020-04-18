@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a58048f-6063-4263-841b-fbfbde4c384a" name="Default Changelist" comment="" />
+    <list default="true" id="2a58048f-6063-4263-841b-fbfbde4c384a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.directory" beforeDir="false" afterPath="$PROJECT_DIR$/../.directory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuenda_py/wuenda_tf_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../wuenda_py/wuenda_tf_test.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +50,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p38" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -203,6 +209,10 @@
       <workItem from="1584239743398" duration="1315000" />
       <workItem from="1584352211040" duration="834000" />
       <workItem from="1584583371262" duration="30000" />
+      <workItem from="1585147005015" duration="24000" />
+      <workItem from="1585147129450" duration="220000" />
+      <workItem from="1585395884573" duration="133000" />
+      <workItem from="1587023493966" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="test pycharm git">
       <created>1584240714239</created>
@@ -234,9 +244,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="560" y="79" width="909" height="924" key="CommitChangelistDialog2/0.27.1920.1008@0.27.1920.1008" timestamp="1584240712825" />
-    <state x="99" y="242" width="501" height="513" key="FileChooserDialogImpl" timestamp="1584240101717">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state x="99" y="223" width="501" height="513" key="FileChooserDialogImpl" timestamp="1585147201471">
+      <screen x="0" y="0" width="1920" height="1044" />
     </state>
+    <state x="99" y="223" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1585147201471" />
     <state x="99" y="242" width="501" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1584240101717" />
     <state width="1874" height="412" key="GridCell.Tab.0.bottom" timestamp="1584156592619">
       <screen x="0" y="27" width="1920" height="1008" />
@@ -258,11 +269,17 @@
     </state>
     <state width="1874" height="412" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584156592619" />
     <state width="1807" height="273" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584001778459" />
-    <state x="854" y="91" key="SettingsEditor" timestamp="1584240185597">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state x="588" y="230" width="1022" height="733" key="SettingsEditor" timestamp="1587023562038">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="854" y="66" width="1022" height="733" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1585147216537" />
+    <state x="588" y="230" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587023562038" />
     <state x="854" y="91" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1584240185597" />
     <state x="455" y="157" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583982734392" />
+    <state x="630" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1585147006453">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="630" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585147006453" />
     <state x="368" y="53" width="1365" height="813" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584154386322">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>

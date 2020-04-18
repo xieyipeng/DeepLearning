@@ -7,12 +7,43 @@
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple 
 """
 
-import tensorflow as tf
+import math
+import numpy as np
+import h5py
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
 
-w = tf.Variable(0, dtype=tf.float32)
-cost = tf.add(tf.add(w ** 2, tf.multiply(-10., w)), 25)
-train = tf.train.GradientDescentOptimizer(0.01).minimize(cost)
-init = tf.compat.v1.global_variables_initializer()
-session = tf.compat.v1.Session()
-session.run(init)
-print(session.run(w))
+import tensorflow.compat.v1 as tf
+
+tf.disable_v2_behavior()
+
+
+def initialize_parameters():
+    """
+    初始化权值矩阵，这里我们把权值矩阵硬编码：
+    W1 : [4, 4, 3, 8]
+    W2 : [2, 2, 8, 16]
+
+    返回：
+        包含了tensor类型的W1、W2的字典
+    """
+    tf.set_random_seed(1)
+
+    W1 = tf.get_variable("W1", [4, 4, 3, 8], initializer=tf.contrib.layers.xavier_initializer(seed=0))
+    W2 = tf.get_variable("W2", [2, 2, 8, 16], initializer=tf.contrib.layers.xavier_initializer(seed=0))
+
+    parameters = {"W1": W1,
+                  "W2": W2}
+
+    return parameters
+
+
+tf.reset_default_graph()
+with tf.Session() as sess_test:
+    parameters = initialize_parameters()
+    init = tf.global_variables_initializer()
+    sess_test.run(init)
+    print("W1 = " + str(parameters["W1"].eval()[1, 1, 1]))
+    print("W2 = " + str(parameters["W2"].eval()[1, 1, 1]))
+
+    sess_test.close()

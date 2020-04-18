@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e2fd2e-052a-43d4-8ec9-94472691db86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.directory" beforeDir="false" afterPath="$PROJECT_DIR$/../.directory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cuda-cudnn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py_ML/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../py_ML/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../py_ML/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../py_ML/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tf-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tf-test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../version-info" beforeDir="false" afterPath="$PROJECT_DIR$/../version-info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wuenda_py/wuenda_tf_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../wuenda_py/wuenda_tf_test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +41,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.wuenda_tf">
+  <component name="RunManager" selected="Python.test">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tf-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wuenda_tf" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.wuenda_tf" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +112,7 @@
       <workItem from="1584782325119" duration="103000" />
       <workItem from="1584782523647" duration="16000" />
       <workItem from="1584785025771" duration="106000" />
+      <workItem from="1587023673379" duration="760000" />
     </task>
     <servers />
   </component>
@@ -118,29 +124,33 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="516" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583895934651" />
-    <state x="724" y="282" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584782365427">
+    <state x="402" y="298" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587023755649">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="724" y="282" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1584782365427" />
+    <state x="402" y="298" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587023755649" />
     <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1583895854885" />
-    <state width="914" height="339" key="GridCell.Tab.0.bottom" timestamp="1584589596528">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1587024438236">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587024438236" />
     <state width="914" height="339" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1584589596528" />
     <state width="1807" height="863" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583896474363" />
-    <state width="914" height="339" key="GridCell.Tab.0.center" timestamp="1584589596527">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1587024438235">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587024438235" />
     <state width="914" height="339" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1584589596527" />
     <state width="1807" height="863" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583896474362" />
-    <state width="914" height="339" key="GridCell.Tab.0.left" timestamp="1584589596527">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1587024438235">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587024438235" />
     <state width="914" height="339" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1584589596527" />
     <state width="1807" height="863" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583896474361" />
-    <state width="914" height="339" key="GridCell.Tab.0.right" timestamp="1584589596528">
-      <screen x="0" y="27" width="1920" height="1008" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1587024438236">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587024438236" />
     <state width="914" height="339" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1584589596528" />
     <state width="1807" height="863" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583896474362" />
     <state width="881" height="344" key="GridCell.Tab.1.bottom" timestamp="1583896474351">
@@ -159,10 +169,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="881" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583896474351" />
-    <state x="430" y="160" key="SettingsEditor" timestamp="1584782378424">
+    <state x="430" y="160" key="SettingsEditor" timestamp="1587024413778">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="430" y="160" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584782378424" />
+    <state x="430" y="160" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587024413778" />
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583895941305" />
     <state x="630" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1584782326201">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -170,7 +180,7 @@
     <state x="630" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584782326201" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tf_test$test.coverage" NAME="test Coverage Results" MODIFIED="1584587439463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tf_test$test.coverage" NAME="test Coverage Results" MODIFIED="1587024033159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tf_test$wuenda_tf.coverage" NAME="wuenda_tf Coverage Results" MODIFIED="1584587809219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

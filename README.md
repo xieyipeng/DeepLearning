@@ -1,7 +1,7 @@
 # MachineLearning
 机器学习
 
-* 学习使用`.gitignore
+* 学习使用`.gitignore`
 ````python
 # 忽略这个target目录
 target
