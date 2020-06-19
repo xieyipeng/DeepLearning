@@ -8,7 +8,7 @@ def creatDataSet():
 
 
 def update(x, y, i):
-    global a, b, G
+    global a, b
     a[i] += 1
     b = b + y
 
