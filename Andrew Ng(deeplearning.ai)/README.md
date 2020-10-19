@@ -1,4 +1,4 @@
-# 吴恩达机器学习
+# 吴恩达深度学习
 - [第一课](https://www.bilibili.com/video/av66314465?p=1)
 - [第二课](https://www.bilibili.com/video/av66524657?p=1)
 - [第三课](https://www.bilibili.com/video/av66644404?p=1)
