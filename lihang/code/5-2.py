@@ -1,5 +1,6 @@
 import numpy as np
 from math import log2
+import
 
 D = np.array([
     ['青年', '否', '否', '一般', '否'],
