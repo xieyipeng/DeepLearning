@@ -1,7 +1,28 @@
-# MachineLearning
-机器学习
+# DeepLearning
+### 1、学习路线
 
-* 学习使用`.gitignore`
+```flow
+flowchat
+
+op1=>operation: 吴恩达：DL
+op2=>operation: 斋藤康毅：《深度学习入门-基于python的理论与实现》
+op3=>operation: pytorch框架学习
+
+op1->op2->op3
+```
+
+>  已完成：
+
+* 吴恩达：DL：[./Andrew Ng(deeplearning.ai)](https://github.com/xieyipeng/Ng-DeepLearning/tree/master/Andrew%20Ng(deeplearning.ai))
+
+>  待完成：
+
+* 斋藤康毅：《深度学习入门-基于python的理论与实现》：[代码实现]()（之后补充。。。）
+
+
+
+### 学习使用`.gitignore`
+
 ````python
 # 忽略这个target目录
 target
@@ -22,3 +43,8 @@ eg: git rm --cached -r ~/文档/MachineLearning/pythonMachineLearningAndTrain/.i
 * cuda 对应关系[对照表](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
 
 https://tensorflow.google.cn/install/source
+
+
+
+
+
