@@ -37,12 +37,11 @@ css/*.css
 git rm --cached -r .idea
 
 eg: git rm --cached -r ~/文档/MachineLearning/pythonMachineLearningAndTrain/.idea
-
 ```
 
-* cuda 对应关系[对照表](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
+* cuda对应关系[(NVIDIA)对照表](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
 
-https://tensorflow.google.cn/install/source
+* [tensorflow官网](https://tensorflow.google.cn/install/source)
 
 
 
