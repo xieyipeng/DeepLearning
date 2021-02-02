@@ -17,7 +17,7 @@ op1->op2->op3
 
 >  待完成：
 
-* 斋藤康毅：《深度学习入门-基于python的理论与实现》：[代码实现]()（之后补充。。。）
+* 斋藤康毅：《深度学习入门-基于python的理论与实现》：[代码实现](https://github.com/xieyipeng/Ng-DeepLearning/tree/master/DeepLearningFromScratch)
 
 
 
