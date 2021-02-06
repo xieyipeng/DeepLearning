@@ -90,18 +90,12 @@ def _change_one_hot_label(X):
 
 
 def load_mnist(normalize=True, flatten=True, one_hot_label=False):
-    """读入MNIST数据集
-
-    parameters
-    ----------
-    normalize: 将图像的像素值正规化为0.0~1.0
-    one_hot_label:
-        True: 标签作为one-hot返回，one-hot数组是指[0,0,1,0,0,0,0,0,0,0]这样的数组
-    flatten: 是否将图像展开为一维数组
-
-    returns
-    ----------
-    （训练图像，训练标签），（测试图像，测试标签）
+    """
+    读入MNIST数据集
+    :param normalize: 将图像的像素值正规化为0.0~1.0
+    :param flatten: 是否将图像展开为一维数组
+    :param one_hot_label: 标签作为one-hot返回，one-hot数组是指[0,0,1,0,0,0,0,0,0,0]这样的数组
+    :return: （训练图像，训练标签），（测试图像，测试标签）
     """
     if not os.path.exists(save_file):
         init_mnist()

@@ -5,7 +5,7 @@ import os
 sys.path.append(os.pardir)
 from dataset.minist import load_mnist
 
-(x_train, t_train), (x_test, t_test) = load_mnist(flatten=True, normalize=False)
+(x_train, t_train), (x_test, t_test) = load_mnist(flatten=True, normalize=False,one_hot_label=True)
 
 # print(x_train.shape)
 # print(t_train.shape)
@@ -31,3 +31,5 @@ img = img.reshape(28, 28)  # 还原成原来的尺寸
 print(img.shape)
 
 img_show(img)
+
+print(t_train.shape)
