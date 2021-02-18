@@ -4,4 +4,4 @@ src
 __pycache__
 .vscode
 download
-mnist.pkl
+*.pkl

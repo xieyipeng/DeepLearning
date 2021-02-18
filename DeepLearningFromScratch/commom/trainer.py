@@ -1,7 +1,7 @@
 # coding: utf-8
 import sys, os
 
-sys.path.append(os.pardir)
+sys.path.append(os.pardir)  # 为了导入父目录的文件而进行的设定
 import numpy as np
 from commom.optimizer import *
 
@@ -66,9 +66,9 @@ class Trainer:
             self.train_acc_list.append(train_acc)
             self.test_acc_list.append(test_acc)
 
-            if self.verbose: print(
-                "=== epoch:" + str(self.current_epoch) + ", train acc:" + str(train_acc) + ", test acc:" + str(
-                    test_acc) + " ===")
+            if self.verbose: print("=== epoch:" + str(self.current_epoch) +
+                                   ", train acc:" + str(train_acc) + ", test acc:" + str(test_acc)
+                                   + " ===")
         self.current_iter += 1
 
     def train(self):
@@ -80,4 +80,3 @@ class Trainer:
         if self.verbose:
             print("=============== Final Test Accuracy ===============")
             print("test acc:" + str(test_acc))
-

@@ -62,6 +62,7 @@ class Adam:
         self.iter += 1
         lr_t = self.lr * np.sqrt(1.0 - self.beta2 ** self.iter) / (1.0 - self.beta1 ** self.iter)
 
+
         for key in params.keys():
             # self.m[key] = self.beta1*self.m[key] + (1-self.beta1)*grads[key]
             # self.v[key] = self.beta2*self.v[key] + (1-self.beta2)*(grads[key]**2)
