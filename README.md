@@ -7,17 +7,21 @@ flowchat
 op1=>operation: 吴恩达：DL
 op2=>operation: 斋藤康毅：《深度学习入门-基于python的理论与实现》
 op3=>operation: pytorch框架学习
+op4=>operation: tensorflow框架学习
 
-op1->op2->op3
+op1->op2->op3->op4
 ```
 
 >  已完成：
 
 * 吴恩达：DL：[./Andrew Ng(deeplearning.ai)](https://github.com/xieyipeng/Ng-DeepLearning/tree/master/Andrew%20Ng(deeplearning.ai))
 
->  待完成：
 
 * 斋藤康毅：《深度学习入门-基于python的理论与实现》：[代码实现](https://github.com/xieyipeng/Ng-DeepLearning/tree/master/DeepLearningFromScratch)
+
+>  待完成：
+
+
 
 
 
