@@ -22,7 +22,10 @@ op1->op2->op3->op4
 >  待完成：
 
 
+* pytorch框架学习
 
+
+* tensorflow框架学习
 
 
 ### 学习使用`.gitignore`
