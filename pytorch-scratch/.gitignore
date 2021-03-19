@@ -2,4 +2,7 @@ venv
 do_not_src
 .ipynb_checkpoints
 .idea
-data
+data*
+*samples
+*.ckpt
+logs/
